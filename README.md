@@ -1,4 +1,4 @@
-This is my final project for BINF5240 (Bioinformatics Computing, Fall 2023) - at Georgetown University. 
+This is my final project for BINF5240 (Bioinformatics Computing, Fall 2023) at Georgetown University. 
 
 The purpose of this code is to display peptide fragmentation spectra from an mzXML file. 
 This program takes an mzXML file, a scan number, and a peptide sequence as input.
